@@ -2,7 +2,6 @@
 Es un video de muestra del proyecto en consola para el curso "Introducción a la programación con Python"  de Domestika de Python con el profesor  Rodrigo Montemayor 
 
 # Visualizacion Proyecto
-
 -------------------------------
 TEATRO FENIX - MENU PRINCIPAL
 -------------------------------
@@ -136,5 +135,6 @@ Seleccione una opción:
 3. Comprar Boletos
 4. Ver mis compras
 5. Salir
-5
-Gracias por
+
+Gracias por visitar el Teatro Fenix. ¡Hasta pronto!
+
